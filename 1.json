@@ -1,0 +1,21 @@
+//自用多仓接口，勿外传！！！
+//更新于 2023.02.21
+
+{
+"storeHouse": [
+
+{ "sourceName": "🧡🧡自用推荐🧡🧡", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/1.json" }, 
+{ "sourceName": "🏆吾爱💙推荐🏆", "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0" }, 
+{ "sourceName": "🧡安卓哥1号仓", "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67777/2.json?sign=6uxC2q2PId6OS9Y9ucygvIGl6wvugOzZN3E0Hzl4oCs%3D%3A0" },
+{ "sourceName": "🧡安卓哥PY仓", "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store" },
+{ "sourceName": "☁️影视仓库①", "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/1.json" }, 
+{ "sourceName": "☁️影视仓库②", "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/2.json" }, 
+{ "sourceName": "☁️影视仓库③", "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/3.json" }, 
+{ "sourceName": "☁️影视仓库④", "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/4.json" }, 
+{"sourceName":"🌙影视仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"}, 
+{"sourceName":"🌙影视仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"}, 
+{"sourceName":"🌙影视仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"}, 
+{"sourceName":"🌙影视仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"}
+
+]
+}
